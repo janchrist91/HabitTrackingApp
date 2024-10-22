@@ -30,7 +30,7 @@ Make sure that Python is installed on your system (version 3.6 or above).
 
 3. Set up a virtual environment (optional but recommended):
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    ```
 
 4. Activate the virtual environment:
