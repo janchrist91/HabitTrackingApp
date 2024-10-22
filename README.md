@@ -20,7 +20,7 @@ Make sure that Python is installed on your system (version 3.6 or above).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/habit-tracker-cli.git
+   git clone https://github.com/janchrist91/habit-tracker-cli.git
    ```
    
 2. Navigate to the project directory:
