@@ -124,7 +124,7 @@ Unit tests are included to verify the core functionality of the Habit Tracker.
 
 ### To run the tests:
 ```bash
-python -m unittest test_habit_tracker.py
+python -m unittest test_app.py
 ```
 ### The tests will:
 * Validate the creation and management of habits
